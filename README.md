@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JonathanJC777
 - 👀 I’m interested in... C++(MQL5(Trading Algorithms), OpenGL, UE4), Python(data science and ML), Typescript/Javascript(Angular) 
 - 🌱 I’m currently learning ... Game Development in OpenGL
-- 💞️ I’m looking to collaborate on ...
-- Currently working with MQL5 - Developing Trading Algorithms
+- 👓💻💴💵💶💰Currently working with... MQL5 - Developing Trading Algorithms
 - 📫 How to reach me...  At the email - jonathan.jdcampos@gmail.com
 
 <!---
